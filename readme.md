@@ -1,39 +1,49 @@
-# I made a bunch of small changes, read below.
+# A Tiny Mod
 
-## Neck
+## BOM Changes
 
-### Changes
+- 1x M3 heatset
+- 1x M3 bolt of unknown size but you probably have it
+- 1x M5 bolt that is longer than whatever was in the bag
+- 2x tilt switches
+
+## File Changes
+
+### Neck
+
+#### Changes
 - M5 heatset holes tightened up. Were too loose stock.
 - Removed dovetail from the Neck Top and added an bit that overlaps Strum Case Top to hold everything tight once assembled. The top of the neck should be the last thing installed now.
 - Added hole at the base of the neck for an M3 bolt to allow easy attaching to Strum Case Bottom.
 - Lowered Fret_Switches_Board 1mm to work well with the keyboard switches I bought.
-### Combined
+#### Combined
 
 - Extension Case Top and Fret Case Top were combined into PB_Fret_Extension_Top_OnePiece.
 - Extension Case Bottom and Fret Case Bottom were combined into PB_Fret_Extension_Bottom_OnePiece.
 
-## Strum Case
+### Strum Case
 
-### Changes
+#### Changes
 - Strum Case Bottom had a hole added for an M3 heatset for attaching the Neck Bottom.
 - Strum Case Bottom had holes added for usb-c extension cable mounting. https://www.amazon.com/dp/B08HS6X44P
 - Strum Case Top had a void added where the Neck Top fits in to hold it in place.
 - Strum Case Top had the face plate hole deepened by 1mm for reasons unknown.
 - Face Plate thiccened by 1mm.
-## Interior Bits
+### Interior Bits
 
-### Changes
+#### Changes
 - Spot added to ButtonBoard to hot glue your tilt switches in place.
 - Removed lip, added holes, and removed overhangs on Joystick_Board
 
-## Frame
+### Frame
 
-### Changes
+#### Changes
 - Combined the two pieces into one piece
 - Removed lip at front where it slotted into the neck.
 - Added hole for M5 bolt to allow solid attachment to neck.
 - Made a big ass slot to make it easier to attach your usb-c cable.
-## Pico Wiring
+
+### Pico Wiring
 
 TL;DR - Not done yet.
 
