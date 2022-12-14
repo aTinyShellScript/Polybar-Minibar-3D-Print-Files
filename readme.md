@@ -43,7 +43,7 @@
 - Added hole for M5 bolt to allow solid attachment to neck.
 - Made a big ass slot to make it easier to attach your usb-c cable.
 
-### Pico Wiring
+## Pico Wiring
 
 TL;DR - Not done yet.
 
