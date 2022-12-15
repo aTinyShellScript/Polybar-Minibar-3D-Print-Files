@@ -1,11 +1,34 @@
 # A Tiny Mod
 
-## BOM Changes
+## Full BOM
+
+The PolyBar and MiniBar use 99% the same BOM but the MiniBar uses 1 less microswitch and 1 less M5 heatset.
+
+- Filament (200-250g or so)
+- 1x Raspberry Pi Pico or Clone
+    - WaveShare 2040-Plus recommended for USB-C (https://www.amazon.com/gp/product/B09LT4V2VS)
+    - OG Pico https://www.amazon.com/dp/B08W3SH4TD
+- 7x Cherry MX Keyboard Switches
+    - https://www.amazon.com/dp/B07X3TH4DS
+- 1x Arduino Joystick Module
+    - https://www.amazon.com/gp/product/B014KQLE8Q
+- 3x M5 HeatSet Insert
+    - https://www.amazon.com/dp/B08T9W17CR
+- 3x 6x6x4.5mm Momentary Switch
+    - https://www.amazon.com/dp/B01N6GU7TA
+- 3x M5x20mm Hex Head Bolts
+    - https://www.amazon.com/dp/B01N6GU7TA
+- 1x M5x30mm Hex Head Bolt
+    - This is for my modded guitar bodies, to hold the outer frame on. It replaces one of the 20mms
+- 2x Metal Ball Tile Sensors
+    - https://www.amazon.com/dp/B00RGN0KY0
+
+# Changes
+
+## BOM Changes for PolyBar
 
 - 1x M3 heatset
-- 1x M3 bolt of unknown size but you probably have it
-- 1x M5 bolt that is longer than whatever was in the bag
-- 2x tilt switches
+- 1x M3x8mm bolt
 
 ## File Changes
 
