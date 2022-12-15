@@ -1,5 +1,7 @@
 # A Tiny Mod
 
+![Size Comparison][/Images/comparison.jpg]
+
 ## Full BOM
 
 The PolyBar and MiniBar use 99% the same BOM but the MiniBar uses 1 less microswitch and 1 less M5 heatset.
