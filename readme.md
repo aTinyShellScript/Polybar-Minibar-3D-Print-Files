@@ -1,6 +1,6 @@
 # A Tiny Mod
 
-![Size Comparison](/Images/comparison.jpg)
+![Size Comparison](/Images/Poly_vs_Mini.jpg)
 
 ## Full BOM
 
